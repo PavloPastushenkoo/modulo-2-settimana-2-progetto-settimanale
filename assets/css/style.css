@@ -1,0 +1,24 @@
+html,
+body {
+  background-color: black;
+}
+
+.coloreFreccia {
+  filter: none !important;
+}
+
+.frecciaAvanti{
+  margin-left: 75px;
+}
+
+.frecciaBack{
+  margin-right: 75px;
+}
+
+.iconeSize{
+  font-size: 1.5rem;
+}
+
+footer p {
+  font-size: 1.1em;
+}
