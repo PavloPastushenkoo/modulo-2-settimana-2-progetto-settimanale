@@ -7,12 +7,12 @@ body {
   filter: none !important;
 }
 
-.frecciaAvanti{
-  margin-left: 75px;
+.frecciaBack{
+  margin-left: -75px;
 }
 
-.frecciaBack{
-  margin-right: 75px;
+.frecciaAvanti{
+  margin-right: -75px;
 }
 
 .iconeSize{
